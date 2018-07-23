@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="AccessTokenRefresh" version="SHA-512:7f7082f18f9bbfeec015ef21e2ee314847ef102c8175963fb7113e81ceed9db9c1ca416ecfb2d343dad3c95cccfdf5bcec88583fd70a37e0f66fbe1059c6793f"/>
+        <VersionInfo resourceName="AccessTokenRequest" version="SHA-512:792f7f122407245c15c749adbb46aab99136942c2ef7e041894057abcee00030b1a918064892c8d6030da8e444bb8037b427e5510d70e95ccf027b307510257f"/>
+        <VersionInfo resourceName="AccessTokenResponse" version="SHA-512:b46b8f8f50324e320305adffeb5a71643cacabb80b91dc6ab822f11d83de01f9940fa826a9780fd75e463063d3733dcccc2cee7757e3c242af8c4aee04c29391"/>
+        <VersionInfo resourceName="AccessTokenResponseCC" version="SHA-512:14702ecefa0b75009eea3654fc86752c6569b96e2e9d68b7b1350c287d36ef9a7dec5ffa8433720b65be8f7937d12a551691984924e8cea7b9d049bf4a76461c"/>
+        <VersionInfo resourceName="AccessTokenResponseRT" version="SHA-512:aecbe4c4df20cc19374c9e7d4fcd4d8c19b4da3462bc69e806cc719f33d609f354ee345619d5190c9be1ed41b29b9168e2d2f66ed45581eb9cff0d6ceddcda5c"/>
+        <VersionInfo resourceName="Authenticate-User-With-Okta" version="SHA-512:c11a4192c7f248530bb18ade89e612e73953a789db8195c19efd53ae79d15b912f3a8d99fc06240e8d96d3fc82d36c67b57ef3e385e56688e99d63d65bdfe072"/>
+        <VersionInfo resourceName="Extract-Okta-User-Info" version="SHA-512:0f65e1aa2ca2fac3849fe61f9f0cc28e60f33d0b1c25df480f18449479ca25079e0f09210c96d91f24e6b586c065aa4b2a7147ffb3c5d229f416d26462b84462"/>
+        <VersionInfo resourceName="GenerateAuthorizationCode" version="SHA-512:f62150b94568d0bd9dfeb5db8b2b918abe42e64361c70f645f06b7228eb8b40306587b166b4879ad15b9fb58b522c075c0ac19b07bc378c3c28a2d8387786090"/>
+        <VersionInfo resourceName="JsonToXml" version="SHA-512:9f9ed5986cadff4c8170c6f098ea5f450dc80ec469e37b535b0cfb415f2e1c2819bd787f6d97af413150f7e7470beb8b7817704d0901c6b3441580498dcb7b77"/>
+        <VersionInfo resourceName="Raise-Authentication-Exception" version="SHA-512:9579d2905d2a498981d77faa318fec139ff4fcec61912744bbf27312342d5e0fd7936da63bb8951cc2ea8497349fddd594f482276c80ee7b7e2ca9c12e070976"/>
+        <VersionInfo resourceName="Send404NotFoundResponse" version="SHA-512:c9edd4be645eb0910a935f3d81a916a8fb115fe6dfe08d602b0f3351792f7b91b1511302d2a15acfff5c0e7fcdbdcf9277d5c32644605761c1354825bc27f74a"/>
+        <VersionInfo resourceName="SetAuthCodeParameters" version="SHA-512:ab85c90fbfd5f9078b928ab481ca78bc9dd9bea803d3d8917b11599d229be5ed0d684471ea7f95f35c46d33c4fbfd8e1f420f1cae3c9d61ce15be81ae5174e71"/>
+        <VersionInfo resourceName="SetOktaTokenStatus" version="SHA-512:274d27f461158b111dc833dd2f2e66b167c6189f5040c58c7e8ad6d8edcb1cf23ceb7dd8812584d4a696e2f9efdbbd6a253efc642fb777f3d10c48115f462b18"/>
+        <VersionInfo resourceName="SetValidTokenResponse" version="SHA-512:942f126ae740f7efa0d77d4d2c1238aa0a33c62b8981c64fae875e3b57f35f42670ba113ccded08a94e1d46bb38b1254e51d1293b541c11b62677f91185610df"/>
+        <VersionInfo resourceName="VerifyAccessToken" version="SHA-512:6ab2bbad12cadca11e6bca4204038e667eea95229f1e3f90e222f699d9e3943521a46cc9c8b3d67310643094c5df36d89bcf8bcbd1769c76820f8f773ec7d28b"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:f1abfcf53001b878445ad7682a258b5ad40799b1c4c26cd18e7b0c9c531a04d2fde8aa59553bf4ce9260a2f43a0def15568f9fde7c5a420b0393440dd0234f19"/>
+    </ProxyEndpoints>
+    <Resources>
+        <VersionInfo resourceName="jsc://SetAuthCodeParameters.js" version="SHA-512:24386cd41657e0579a53dcc1b60069128f34ea1500e7ff6b6d8967ca5652bf4528ed988763e5ee1f3d9e07bf3346a63076f54f1cef5dac8a3d7e08ac16ef02f9"/>
+    </Resources>
+    <SharedFlows/>
+    <TargetEndpoints/>
+</Manifest>
